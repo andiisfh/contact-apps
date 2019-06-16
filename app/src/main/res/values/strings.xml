@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jenius Test App</string>
+    <string name="search_hint">Search by ID</string>
+    <string name="search">Search</string>
+    <string name="add">Add Contact</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+</resources>
